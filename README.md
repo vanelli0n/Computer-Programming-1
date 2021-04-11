@@ -1,5 +1,6 @@
-# aezriel
+# Computer Programming 1
 Computer Programming 1 Assignments, Activities, Quizzes and Projects
+
 Name: Juliana Jasmin D. Aliswag
 Course: Bachelor of Science in Computer Science (BSCS)
 Status: First Year Regular Student
